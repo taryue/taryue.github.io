@@ -7,7 +7,7 @@ author_profile: true
 
 
 ## Instructor:  
-	Biostatistics Bootcamp, UNC Chapel Hill, 2018 Summer.
+* Biostatistics Bootcamp, UNC Chapel Hill, 2018 Summer.
 
 		
 ## Teaching Assistant: 
