@@ -4,7 +4,7 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Computer Science Department, Stanford University<br>
-Gates 158, 353 Serra Mall, Stanford, CA 94305<br>
-Email: lantaoyu [at] cs.stanford.edu
+Department of Biostatistics, University of Washington<br>
+1705 NE Pacific St, Seattle, WA, 98109<br>
+Email: taryue [at] uw.edu
 
