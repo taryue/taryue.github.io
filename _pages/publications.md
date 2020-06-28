@@ -66,13 +66,13 @@ Kyle Wang, Kevin A Pearlstein, Nicholas D Patchett, Allison M Deal, Panayiotis M
 <i>Radiotherapy and Oncology</i>
 
 <b>[Cardiac toxicity after radiotherapy for stage III non–small-cell lung cancer: pooled analysis of dose-escalation trials delivering 70 to 90 Gy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5455462/)</b>
-Yaodong Yang\*, Kyle Wang, Michael J Eblan, Allison M Deal, Matthew Lipner, Timothy M Zagar, <b>Yue Wang</b> et al. <i>Journal of Clinical Oncology</i>.
+ Kyle Wang, Michael J Eblan, Allison M Deal, Matthew Lipner, Timothy M Zagar, <b>Yue Wang</b> et al. <i>Journal of Clinical Oncology</i>.
 
 <b>[Bayesian longitudinal low-rank regression models for imaging genetic data from longitudinal studies](https://www.sciencedirect.com/science/article/pii/S1053811917300617)</b>
 Zhao-Hua Lu, Zakaria Khondker, Joseph G Ibrahim, <b>Yue Wang</b>, Hongtu Zhu. <i>NeuroImage</i>. 
 
 <b>[Single-nucleotide polymorphisms are associated with cognitive decline at Alzheimer's disease conversion within mild cognitive impairment patients](http://lantaoyu.com/publications/RLSG)</b>
-Eunjee Lee, Kelly S Giovanello, Andrew J Saykin, Fengchang Xie, Dehan Kong, <b>Yue Wang</b>, Liuqing Yang, Joseph G Ibrahim, P Murali Doraiswamy, Hongtu Zhu. <i> Alzheimer's \& Dementia: Diagnosis, Assessment \& Disease Monitoring</i>
+Eunjee Lee, Kelly S Giovanello, Andrew J Saykin, Fengchang Xie, Dehan Kong, <b>Yue Wang</b>, Liuqing Yang, Joseph G Ibrahim, P Murali Doraiswamy, Hongtu Zhu. <i> Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring</i>
 
 
 [\* denotes equal contribution]
