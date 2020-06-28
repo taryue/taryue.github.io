@@ -7,7 +7,7 @@ author_profile: true
 
 ## Submitted
 <b> RAPLS: Residual-based Alternative Partial Least Squares for Functional Regression Models.</b> 
-<b> Yue Wang <b>, Joseph G. Ibrahim, Hongtu Zhu.
+<b> Yue Wang </b>, Joseph G. Ibrahim, Hongtu Zhu.
 
 <b> Generalized Matrix Decomposition Regression. </b> 
 <b> Yue Wang <b>, Ali Shojaie, Tim Randolph, Jing Ma.
