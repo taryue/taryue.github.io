@@ -72,7 +72,7 @@ Kyle Wang, Kevin A Pearlstein, Nicholas D Patchett, Allison M Deal, Panayiotis M
 Zhao-Hua Lu, Zakaria Khondker, Joseph G Ibrahim, <b>Yue Wang</b>, Hongtu Zhu. <i>NeuroImage</i>. 
 
 <b>[Single-nucleotide polymorphisms are associated with cognitive decline at Alzheimer's disease conversion within mild cognitive impairment patients](http://lantaoyu.com/publications/RLSG)</b>
-Eunjee Lee, Kelly S Giovanello, Andrew J Saykin, Fengchang Xie, Dehan Kong, <b>Yue Wang</b>, Liuqing Yang, Joseph G Ibrahim, P Murali Doraiswamy, Hongtu Zhu. <i> Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring</i>
+Eunjee Lee, Kelly S Giovanello, Andrew J Saykin, Fengchang Xie, Dehan Kong, <b>Yue Wang</b>, Liuqing Yang, Joseph G Ibrahim, P Murali Doraiswamy, Hongtu Zhu. <i> Alzheimer's \\& Dementia: Diagnosis, Assessment \\& Disease Monitoring</i>
 
 
 [\* denotes equal contribution]
