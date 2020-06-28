@@ -10,8 +10,8 @@ redirect_from:
 
 
 # About Me
-* I am a statistician interested in developing statistical learning methods for analyzing massive biological data to address cutting edge biological, clinical and public health problems. Such biological data include neuroimaging data, multi-omics data and single cell data. 	
-* I am currently a Senior Fellow in the Department of Biostatistics at University of Washington, working with [Prof. Ali Shojaie](http://faculty.washington.edu/ashojaie/index.html) and [Prof. Jing Ma](http://drjingma.com).
+* I am a statistician focusing on developing statistical learning methods for analyzing massive biological data to address cutting edge biological, clinical and public health problems. Such biological data include neuroimaging data, multi-omics data and single cell data. 	
+* I am currently a Senior Fellow in the Department of Biostatistics at University of Washington, working with [Prof. Ali Shojaie](http://faculty.washington.edu/interestedashojaie/index.html) and [Prof. Jing Ma](http://drjingma.com).
 	I also collaborate closely with [Dr. Tim Randolph's lab](https://research.fhcrc.org/randolph/en/research-overview.html) at Fred Hutch. I obtained my PhD in Biostatistics at UNC Chapel Hill in 2018, under the supervision of [Prof. Hongtu Zhu](https://sph.unc.edu/adv_profile/hongtu-zhu-phd/) and [Prof. Joseph G. Ibrahim](https://sph.unc.edu/adv_profile/joseph-g-ibrahim-phd/). 
 
 
