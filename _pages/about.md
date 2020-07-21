@@ -16,6 +16,7 @@ redirect_from:
 
 
 # Recent News
+* I will join the School of Mathematical and Natural Sciences at Arizona State University as an assistant professor in Fall 2020.
 * Feb, 2020. Our paper [Partial least squares for functional joint models with applications to the Alzheimer's disease neuroimaging initiative study](https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13219) was published in Biometrics.
 * Nov, 2019. Our paper [The Generalized Matrix Decomposition Biplot and Its Application to Microbiome Data](https://msystems.asm.org/content/4/6/e00504-19.abstract) was published in mSystems as the editor's pick. 
 * July, 2019. Our paper [Heritability of regional brain volumes in large-scale neuroimaging and genetic studies](https://academic.oup.com/cercor/article/29/7/2904/5052722) was published in Cerebral Cortex. 
