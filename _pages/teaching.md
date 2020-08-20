@@ -7,6 +7,7 @@ author_profile: true
 
 
 ## Instructor:  
+* STP226, Elements of Statistics, ASU, 2020 Fall
 * Biostatistics Bootcamp, UNC Chapel Hill, 2018 Summer.
 
 		
