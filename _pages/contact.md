@@ -4,7 +4,7 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Department of Biostatistics, University of Washington<br>
-1705 NE Pacific St, Seattle, WA, 98109<br>
-Email: taryue [at] uw.edu
+School of Mathematical and Natural Sciences
+Arizona State University
+Ph: 602-543-4636 | CLCC 250B
 
