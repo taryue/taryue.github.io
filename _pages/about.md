@@ -22,3 +22,6 @@ I worked as a senior fellow in the Department of Biostatistics at University of 
 * July, 2019. Our paper [Heritability of regional brain volumes in large-scale neuroimaging and genetic studies](https://academic.oup.com/cercor/article/29/7/2904/5052722) was published in Cerebral Cortex. 
 * Feb, 2019. Our paper [Assessment of risk of xerostomia after whole-brain radiation therapy and association with parotid dose](https://jamanetwork.com/journals/jamaoncology/article-abstract/2716812) was published in JAMA oncology.
 
+# Upcoming Talks
+* Sep, 2020. A Statistical Perspective of Supervised Multi-omics Data Analysis. School of Mathematical and Natural Sciences, ASU. 
+
