@@ -23,5 +23,7 @@ I worked as a senior fellow in the Department of Biostatistics at University of 
 * Feb, 2019. Our paper [Assessment of risk of xerostomia after whole-brain radiation therapy and association with parotid dose](https://jamanetwork.com/journals/jamaoncology/article-abstract/2716812) was published in JAMA oncology.
 
 # Upcoming Talks
+* Oct, 2020. I will give a talk on generalized matrix decomposition regression at University of Kentucky. 
+* Oct, 2020. I will give a talk on analysis of two-way structued data at UNC Charlotte.
 * Sep, 2020. A Statistical Perspective of Supervised Multi-omics Data Analysis. School of Mathematical and Natural Sciences, ASU. 
 
