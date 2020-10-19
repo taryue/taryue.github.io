@@ -24,6 +24,6 @@ I worked as a senior fellow in the Department of Biostatistics at University of 
 
 # Upcoming Talks
 * Oct, 2020. I will give a talk on generalized matrix decomposition regression at University of Kentucky. 
-* Oct, 2020. I will give a talk on analysis of two-way structued data at UNC Charlotte.
+* Oct, 2020. I will give a talk on analysis of two-way structued data at the October Math Day Symposium at UNC Charlotte.
 * Sep, 2020. A Statistical Perspective of Supervised Multi-omics Data Analysis. School of Mathematical and Natural Sciences, ASU. 
 
