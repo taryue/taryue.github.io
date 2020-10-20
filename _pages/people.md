@@ -2,6 +2,7 @@
 layout: archiv
 permalink: /people/
 title: "People"
+author_profile: true
 ---
 
 
