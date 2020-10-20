@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: archiv
+permalink: /people/
 title: "People"
 ---
 
