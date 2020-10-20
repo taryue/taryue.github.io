@@ -9,7 +9,7 @@ main:
   # - title: "Awards & Honors"
   #   url: /awards/
 
-   - title: "People"
+  - title: "People"
      url: /people/    
 
   - title: "Teaching"
