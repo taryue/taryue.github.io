@@ -1,5 +1,5 @@
 ---
-layout: archiv
+layout: page
 title: "People"
 ---
 
