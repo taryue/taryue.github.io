@@ -10,7 +10,7 @@ main:
   #   url: /awards/
 
   - title: "People"
-     url: /people/    
+    url: /people/    
 
   - title: "Teaching"
     url: /teaching/    
