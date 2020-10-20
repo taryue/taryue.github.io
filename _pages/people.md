@@ -4,22 +4,7 @@ permalink: /people/
 title: "People"
 ---
 
-<style>
-table{
-  border-collapse: collapse;
-  border-spacing: 0;
-}
 
-th{
-  background-color: #eeeeee;
-  padding: 5px;
-}
-
-td{
-  border: 1px solid #eeeeee;
-  padding: 5px;
-}
-</style>
 
 | Name | Research topics | |
 | :--- | :---- | :---- |
