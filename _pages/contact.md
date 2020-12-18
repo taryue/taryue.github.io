@@ -7,5 +7,5 @@ author_profile: true
 School of Mathematical and Natural Sciences  
 Arizona State University. 
 Ph: 602-543-4636 | CLCC 250B  
-Email: ywan1282@asu.edu
+Email: Yue.Wang.Stat@asu.edu
 
