@@ -17,10 +17,10 @@ I worked as a senior fellow in the Department of Biostatistics at University of 
 
 
 # Recent News
+* May, 2021. A new preprint on [high-dimensional tests for gene pathways] (https://arxiv.org/abs/2105.07570#:~:text=17%20May%202021%5D-,A%20powerful%20test%20for%20differentially%20expressed%20gene,graph%2Dinformed%20structural%20equation%20modeling&text=A%20major%20task%20in%20genetic,mutations%20and%20enhance%20patient%20diagnosis) is available on arXiv. 
+* April, 2021. A new preprint on [Generalized Matrix Decomposition Regression] (https://arxiv.org/abs/2104.08408) is available on arXiv.
 * Feb, 2020. Our paper [Partial least squares for functional joint models with applications to the Alzheimer's disease neuroimaging initiative study](https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13219) was published in Biometrics.
-* Nov, 2019. Our paper [The Generalized Matrix Decomposition Biplot and Its Application to Microbiome Data](https://msystems.asm.org/content/4/6/e00504-19.abstract) was published in mSystems as the editor's pick. 
-* July, 2019. Our paper [Heritability of regional brain volumes in large-scale neuroimaging and genetic studies](https://academic.oup.com/cercor/article/29/7/2904/5052722) was published in Cerebral Cortex. 
-* Feb, 2019. Our paper [Assessment of risk of xerostomia after whole-brain radiation therapy and association with parotid dose](https://jamanetwork.com/journals/jamaoncology/article-abstract/2716812) was published in JAMA oncology.
+
 
 # Upcoming Talks
 * Oct, 2020. I will give a talk on generalized matrix decomposition regression at University of Kentucky. 
