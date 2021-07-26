@@ -12,8 +12,16 @@ author_profile: true
 <b> Generalized Matrix Decomposition Regression. </b> 
 <b> Yue Wang </b>, Ali Shojaie, Tim Randolph, Jing Ma.
 
+<b> A powerful test for differentially expressed gene pathwaysvia graph-informed structural equation modeling. </b> 
+Jin Jin, <b> Yue Wang </b>.
+
+<b> Advances, Challenges and Opportunities of Network Analysis Using COVID-19 Data. </b>
+<b> Yue Wang </b>, Yunpeng Zhao, Qing Pan.
+
 <b> Advanced cancer and minor children: an exploratory study of patient-centered outcomes. </b> 
 Stephanie A Chien, Allison M Deal, Justin L Gettings, <b>Yue Wang</b>, Laura Farnan, Jeannette T Bensen, Adrian Gerstel, Kate E Stanton, Courtney A Nelson, Laura J Quillen, Eliza M Park.
+
+
 
 
 ## 2020
