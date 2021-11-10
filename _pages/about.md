@@ -17,7 +17,7 @@ I worked as a senior fellow in the Department of Biostatistics at University of 
 
 
 # Recent News
-* Nov, 2021. Our paper, [T2-DAG: A powerful test for differentially expressed gene pathways via graph-informed structural equation modeling](https://arxiv.org/abs/2105.07570#:~:text=17%20May%202021%5D-,A%20powerful%20test%20for%20differentially%20expressed%20gene,graph%2Dinformed%20structural%20equation%20modeling&text=A%20major%20task%20in%20genetic,mutations%20and%20enhance%20patient%20diagnosis) has been accepted in Bioinformatics.
+* Nov, 2021. Our paper, [T2-DAG: A powerful test for differentially expressed gene pathways via graph-informed structural equation modeling](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab770/6424893?guestAccessKey=5e9dfd22-232d-4a4b-a9f0-35ddf8580f8f) has been accepted in Bioinformatics.
 * Sep, 2021. We published an interesting application of causal mediation analysis to investigate the relationship between the academic background of a company's top management team and the company's innovation performance. Check [this](https://www.tandfonline.com/doi/full/10.1080/09537325.2021.1979203) out! 
 * Sep, 2021. Our new preprint, [Direct estimation of differential Granger causality between two high-dimensional time series](https://arxiv.org/pdf/2109.07609.pdf) is available on arXiv.
 * Sep, 2021. Our review paper, [Advances, Challenges and Opportunities of Phylogenetic and Social Network Analysis Using COVID-19 Data](https://github.com/taryue/taryue.github.io/tree/master/files/COVID_BIB_Bioarxiv.pdf), has been accepted in Briefings in Bioinformatics.  
@@ -26,6 +26,7 @@ I worked as a senior fellow in the Department of Biostatistics at University of 
 
 
 # Upcoming Talks
+* Nov, 2021. I will give a talk on high-dimensional inference at Renmin University of China.
 * Sep, 2021. I will give a talk on supervised data integration of multiomics data at 2021 ICSA. 
 
 
