@@ -5,10 +5,18 @@ title: "People"
 author_profile: true
 ---
 
+# Current Students/RA
 
+* Ruoqian Liu (2020-): Ph.D. student in Statistics, ASU; joint with Dan Cheng. 
+* Haoran Shi (2020-): Ph.D. student in Statistics, ASU; joint with Dan Cheng. 
+* Lei Fang (2022-): Ph.D. student in Statistics, University of Kentucky; joint with Chenglong Ye. 
+* Enyu Li (2022-): Ph.D. student in Statistics, University of Kentucky; joint with Chenglong Ye. 
+* Yi Zhang (2022-): Ph.D. student in Biostatistics, University of Arizona; joint with Xiaoxiao Sun. 
+* Kurt Vecchio (2022-): MS student in Biological Data Science, ASU; joint with Yunpeng Zhao. 
 
-| Name | Research topics | |
-| :--- | :---- | :---- |
-| Ruoqian Liu, PhD student in Statistics | High-dimensional two-sample tests for proportions with data contamination | <img width="100" src="../photos/ruoqian.jpg"> |
-| Yanshuai Tu, PhD student in Computer Science | Analyses of proteomics data with shared peptides | <img width="100" src="../photos/yanshuai.jpg"> |
-| Henry Raymond, MS student in Biological Data Science | Graphical modelling of spatial single cell RNAseq data | <img width="100" src="../photos/henry.jpg">
+# Past Students/RA
+
+* Henry Raymond (2020-2021): MS student in Biological Data Science, ASU. 
+* Matt Seelig (2021-2022): MS student in Biological Data Science, ASU; joint with Becky Ball. 
+* Carmen Webster (2021-2022): MS student in Biological Data Science, ASU; joint with Maria Sanin Perez. 
+* Yanshuai Tu (2020-2021): Ph.D. student in Computer Science, ASU. 
