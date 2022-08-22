@@ -17,7 +17,7 @@ I worked as a senior fellow in the Department of Biostatistics at University of 
 
 
 # Recent News
-* Jun, 2022. A new preprint on [Quantum Amplitude Estimation] (https://arxiv.org/abs/2206.08449) is available on arXiv. 
+* Jun, 2022. A new preprint on [Quantum Amplitude Estimation](https://arxiv.org/abs/2206.08449) is available on arXiv. 
 * Nov, 2021. Our paper, [T2-DAG: A powerful test for differentially expressed gene pathways via graph-informed structural equation modeling](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab770/6424893?guestAccessKey=5e9dfd22-232d-4a4b-a9f0-35ddf8580f8f) has been accepted in Bioinformatics.
 * Sep, 2021. We published an interesting application of causal mediation analysis to investigate the relationship between the academic background of a company's top management team and the company's innovation performance. Check [this](https://www.tandfonline.com/doi/full/10.1080/09537325.2021.1979203) out! 
 * Sep, 2021. Our new preprint, [Direct estimation of differential Granger causality between two high-dimensional time series](https://arxiv.org/pdf/2109.07609.pdf) is available on arXiv.
@@ -27,7 +27,7 @@ I worked as a senior fellow in the Department of Biostatistics at University of 
 
 
 # Talks
-* Sep, 2022. I will give a talk on [T2-DAG] (https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab770/6424893?guestAccessKey=5e9dfd22-232d-4a4b-a9f0-35ddf8580f8f) at the Department of Epidemiology and Biostatistics, University of Arizona. 
+* Sep, 2022. I will give a talk on [T2-DAG](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab770/6424893?guestAccessKey=5e9dfd22-232d-4a4b-a9f0-35ddf8580f8f) at the Department of Epidemiology and Biostatistics, University of Arizona. 
 * Aug, 2022. I gave a talk on regression analysis for multi-view microbiome data at 2022 JSM.
 * Jun, 2022. I gave a talk on regression analysis for multi-view microbiome data at 2022 ICSA.
 * Nov, 2021. I gave a talk on high-dimensional inference at Renmin University of China.
