@@ -4,8 +4,7 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-School of Mathematical and Natural Sciences  
-Arizona State University. 
-Ph: 602-543-4636 | CLCC 250B  
-Email: Yue.Wang.Stat@asu.edu
+Department of Biostatistics & Informatics  
+University of Colorado Anschutz Medical Campus 
+Email: yue.2.wang@cuanschutz.edu
 
