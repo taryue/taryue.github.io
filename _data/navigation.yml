@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "CV/Bio"
-    url: /files/CV_Yue_081920.pdf
+  # - title: "CV/Bio"
+  #  url: /files/CV_Yue_081920.pdf
 
   - title: "Publications"
     url: /publications/
