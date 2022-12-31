@@ -10,7 +10,7 @@ redirect_from:
 
 
 # Yue Wang (汪越)	
-* I am currently an assistant professor in the Department of Biostatistics & Informatics at the University of Colorado Anschutz Medican Campus. Prior to joining CU Anschutz, I was an assistant professor at Arizona State University. 
+* I am currently an assistant professor in the Department of Biostatistics & Informatics at the University of Colorado Anschutz Medical Campus. Prior to joining CU Anschutz, I was an assistant professor at Arizona State University. 
 I worked as a post-doctoral fellow at the University of Washington with [Prof. Ali Shojaie](http://faculty.washington.edu/interestedashojaie/index.html) and at the Fred Hutchinson Cancer Center with [Prof. Jing Ma](http://drjingma.com).
 I also collaborate closely with [Dr. Tim Randolph's lab](https://research.fhcrc.org/randolph/en/research-overview.html) at Fred Hutch. I obtained my PhD in Biostatistics from the University of North Carolina at Chapel Hill. 
 * I am a biostatistician focusing on developing statistical/computational methods for integrating multi-omics data to address important biomedical questions. Current projects mainly involve scRNA-seq data and multi-view human microbiome data. 
