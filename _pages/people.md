@@ -10,7 +10,6 @@ author_profile: true
 * Ruoqian Liu (2020-): Ph.D. student in Statistics, ASU; joint with Dan Cheng. 
 * Haoran Shi (2020-): Ph.D. student in Statistics, ASU; joint with Dan Cheng. 
 * Lei Fang (2022-): Ph.D. student in Statistics, University of Kentucky; joint with Chenglong Ye. 
-* Enyu Li (2022-): Ph.D. student in Statistics, University of Kentucky; joint with Chenglong Ye. 
 * Yi Zhang (2022-): Ph.D. student in Biostatistics, University of Arizona; joint with Xiaoxiao Sun. 
 * Kurt Vecchio (2022-): MS student in Biological Data Science, ASU; joint with Yunpeng Zhao. 
 
