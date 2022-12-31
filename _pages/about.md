@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 
-# About Me
-* I am a statistician focusing on developing statistical learning methods for analyzing massive biological data to address cutting edge biological, clinical and public health related problems. Such biological data include neuroimaging data, multi-omics data and single cell data. 	
-* I am currently an assistant professor in the School of Mathematical and Natural Sciences at Arizona State University. Prior to joining ASU, 
-I worked as a senior fellow in the Department of Biostatistics at University of Washington with [Prof. Ali Shojaie](http://faculty.washington.edu/interestedashojaie/index.html) and [Prof. Jing Ma](http://drjingma.com).
-	I also collaborate closely with [Dr. Tim Randolph's lab](https://research.fhcrc.org/randolph/en/research-overview.html) at Fred Hutch. I obtained my PhD in Biostatistics at UNC Chapel Hill in 2018, under the supervision of [Prof. Hongtu Zhu](https://sph.unc.edu/adv_profile/hongtu-zhu-phd/) and [Prof. Joseph G. Ibrahim](https://sph.unc.edu/adv_profile/joseph-g-ibrahim-phd/). 
+# Yue Wang (汪越)	
+* I am currently an assistant professor in the Department of Biostatistics & Informatics at the University of Colorado Anschutz Medican Campus. Prior to joining CU Anschutz, I was an assistant professor at Arizona State University. 
+I worked as a post-doctoral fellow at the University of Washington with [Prof. Ali Shojaie](http://faculty.washington.edu/interestedashojaie/index.html) and at the Fred Hutchinson Cancer Center with [Prof. Jing Ma](http://drjingma.com).
+I also collaborate closely with [Dr. Tim Randolph's lab](https://research.fhcrc.org/randolph/en/research-overview.html) at Fred Hutch. I obtained my PhD in Biostatistics from the University of North Carolina at Chapel Hill. 
+* I am a biostatistician focusing on developing statistical/computational methods for integrating multi-omics data to address important biomedical questions. Current projects mainly involve scRNA-seq data and multi-view human microbiome data. 
 
 
 # Recent News
