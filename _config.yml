@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yue Wang"
 title_separator          : "-"
 name                     : &name "Yue Wang"
-description              : &description "Assistant Professor of Statistics, Arizona State University"
+description              : &description "Assistant Professor of Biostatistics, CU Anschutz"
 url                      : https://taryue.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "taryue/taryue.github.io"
@@ -79,11 +79,11 @@ analytics:
 author:
   name             : "Yue Wang"
   avatar           : "Yue Wang.jpg"
-  bio              : "Assistant Professor of Statistics, Arizona State University"
-  location         : "Glendale, AZ"
+  bio              : "Assistant Professor of Biostatistics, CU Anschutz"
+  location         : "Aurora, CO"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=m8LRDMwAAAAJ&hl=en"
-  email            : "ywan1282@asu.edu"
+  email            : "yue.2.wang@cuanschutz.edu"
   uri              : 
   bitbucket        :
   codepen          :
