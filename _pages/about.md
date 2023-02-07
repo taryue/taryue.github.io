@@ -17,12 +17,13 @@ I also collaborate closely with [Dr. Tim Randolph's lab](https://research.fhcrc.
 
 
 # Recent News
+
+* Feb, 2023. Our paper,[Generalized matrix decomposition regression: estimation and inference for two-way structured data] has been accepted by the Annals of Applied Statistics.
 * Jun, 2022. A new preprint on [Quantum Amplitude Estimation](https://arxiv.org/abs/2206.08449) is available on arXiv. 
 * Nov, 2021. Our paper, [T2-DAG: A powerful test for differentially expressed gene pathways via graph-informed structural equation modeling](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab770/6424893?guestAccessKey=5e9dfd22-232d-4a4b-a9f0-35ddf8580f8f) has been accepted in Bioinformatics.
 * Sep, 2021. We published an interesting application of causal mediation analysis to investigate the relationship between the academic background of a company's top management team and the company's innovation performance. Check [this](https://www.tandfonline.com/doi/full/10.1080/09537325.2021.1979203) out! 
 * Sep, 2021. Our new preprint, [Direct estimation of differential Granger causality between two high-dimensional time series](https://arxiv.org/pdf/2109.07609.pdf) is available on arXiv.
 * Sep, 2021. Our review paper, [Advances, Challenges and Opportunities of Phylogenetic and Social Network Analysis Using COVID-19 Data](https://github.com/taryue/taryue.github.io/tree/master/files/COVID_BIB_Bioarxiv.pdf), has been accepted in Briefings in Bioinformatics.  
-* April, 2021. A new preprint on [generalized matrix decomposition regression](https://arxiv.org/abs/2104.08408) is available on arXiv.
 
 
 
