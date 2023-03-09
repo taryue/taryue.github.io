@@ -28,10 +28,11 @@ I also collaborate closely with [Dr. Tim Randolph's lab](https://research.fhcrc.
 
 
 # Talks
+* Apr, 2023. I will give a talk on microbiome-metabolome interaction at the Department of Mathematics and Statistics, Texas Tech University.
+* Mar, 2023. I will give a talk on microbiome-metabolome interaction at the Department of Statistics, University of Kentucky.
 * Sep, 2022. I will give a talk on [T2-DAG](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab770/6424893?guestAccessKey=5e9dfd22-232d-4a4b-a9f0-35ddf8580f8f) at the Department of Epidemiology and Biostatistics, University of Arizona. 
 * Aug, 2022. I gave a talk on regression analysis for multi-view microbiome data at 2022 JSM.
 * Jun, 2022. I gave a talk on regression analysis for multi-view microbiome data at 2022 ICSA.
-* Nov, 2021. I gave a talk on high-dimensional inference at Renmin University of China.
-* Sep, 2021. I gave a talk on supervised data integration of multiomics data at 2021 ICSA. 
+
 
 
