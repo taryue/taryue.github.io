@@ -10,10 +10,12 @@ redirect_from:
 
 
 # Yue Wang (汪越)	
-* I am currently an assistant professor in the Department of Biostatistics & Informatics at the University of Colorado Anschutz Medical Campus. Prior to joining CU Anschutz, I was an assistant professor at Arizona State University. 
+* I am currently an assistant professor in the Department of Biostatistics & Informatics and the Center for Innovative Design and Analysis at the University of Colorado Anschutz Medical Campus. I am also a member of the Colorado Center for Personalized Medicine.
+* I am a biostatistician focusing on developing statistical/computational methods for integrating multi-omics data to address important biomedical questions. Current projects mainly involve multi-view human microbiome data. 
+* Prior to joining CU Anschutz, I was an assistant professor at Arizona State University. 
 I worked as a post-doctoral fellow at the University of Washington with [Prof. Ali Shojaie](http://faculty.washington.edu/interestedashojaie/index.html) and at the Fred Hutchinson Cancer Center with [Prof. Jing Ma](http://drjingma.com).
 I also collaborate closely with [Dr. Tim Randolph's lab](https://research.fhcrc.org/randolph/en/research-overview.html) at Fred Hutch. I obtained my PhD in Biostatistics from the University of North Carolina at Chapel Hill. 
-* I am a biostatistician focusing on developing statistical/computational methods for integrating multi-omics data to address important biomedical questions. Current projects mainly involve scRNA-seq data and multi-view human microbiome data. 
+
 
 
 # Recent News
@@ -28,6 +30,9 @@ I also collaborate closely with [Dr. Tim Randolph's lab](https://research.fhcrc.
 
 
 # Talks
+* July, 2023. I gave a talk on microbiome-metabolome interaction at ICSA, Chengdu, 2023.
+* Jun, 2023. I gave a talk on microbiome-metabolome interaction at WNAR, Anchorage, 2023.
+* Jun, 2023. I gave a talk on microbiome-metabolome interaction at ICSA, Ann Arbor, 2023.
 * Apr, 2023. I will give a talk on microbiome-metabolome interaction at the Department of Mathematics and Statistics, Texas Tech University.
 * Mar, 2023. I will give a talk on microbiome-metabolome interaction at the Department of Statistics, University of Kentucky.
 * Sep, 2022. I will give a talk on [T2-DAG](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab770/6424893?guestAccessKey=5e9dfd22-232d-4a4b-a9f0-35ddf8580f8f) at the Department of Epidemiology and Biostatistics, University of Arizona. 
