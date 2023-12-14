@@ -20,12 +20,9 @@ I also collaborate closely with [Dr. Tim Randolph's lab](https://research.fhcrc.
 
 # Recent News
 
+* Dec, 2023. Fecal specimens are frequently used as proxies for gut microbiota, which is heterogeneous along the gastrointestinal (GI) tract. In our new [preprint](https://www.biorxiv.org/content/10.1101/2023.12.12.571369v1), we developed a mixture model to investigate the compositions of fecal microbiomes.  
 * May, 2023. Check our new [paper](https://www.sciencedirect.com/science/article/abs/pii/S1872497323000583) about the use of microbial fingerprint in crime scenes! 
 * Feb, 2023. Our paper, [Generalized matrix decomposition regression: estimation and inference for two-way structured data](https://arxiv.org/abs/2104.08408), has been accepted by the Annals of Applied Statistics.
-* Jun, 2022. A new preprint on [Quantum Amplitude Estimation](https://arxiv.org/abs/2206.08449) is available on arXiv. 
-* Nov, 2021. Our paper, [T2-DAG: A powerful test for differentially expressed gene pathways via graph-informed structural equation modeling](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab770/6424893?guestAccessKey=5e9dfd22-232d-4a4b-a9f0-35ddf8580f8f) has been accepted in Bioinformatics.
-* Sep, 2021. We published an interesting application of causal mediation analysis to investigate the relationship between the academic background of a company's top management team and the company's innovation performance. Check [this](https://www.tandfonline.com/doi/full/10.1080/09537325.2021.1979203) out! 
-* Sep, 2021. Our new preprint, [Direct estimation of differential Granger causality between two high-dimensional time series](https://arxiv.org/pdf/2109.07609.pdf) is available on arXiv.
 
 
 
@@ -35,9 +32,6 @@ I also collaborate closely with [Dr. Tim Randolph's lab](https://research.fhcrc.
 * Jun, 2023. I gave a talk on microbiome-metabolome interaction at ICSA, Ann Arbor, 2023.
 * Apr, 2023. I will give a talk on microbiome-metabolome interaction at the Department of Mathematics and Statistics, Texas Tech University.
 * Mar, 2023. I will give a talk on microbiome-metabolome interaction at the Department of Statistics, University of Kentucky.
-* Sep, 2022. I will give a talk on [T2-DAG](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab770/6424893?guestAccessKey=5e9dfd22-232d-4a4b-a9f0-35ddf8580f8f) at the Department of Epidemiology and Biostatistics, University of Arizona. 
-* Aug, 2022. I gave a talk on regression analysis for multi-view microbiome data at 2022 JSM.
-* Jun, 2022. I gave a talk on regression analysis for multi-view microbiome data at 2022 ICSA.
 
 
 
