@@ -20,6 +20,7 @@ I also collaborate closely with [Dr. Tim Randolph's lab](https://research.fhcrc.
 
 # Recent News
 
+* Jan, 2024. We have developed smoothing spline methods to model the temporal dynamics of single cell RNA-seq data. Check out our [preprint](https://arxiv.org/pdf/2401.15309.pdf). 
 * Dec, 2023. Fecal specimens are frequently used as proxies for gut microbiota, which is heterogeneous along the gastrointestinal (GI) tract. In our new [preprint](https://www.biorxiv.org/content/10.1101/2023.12.12.571369v1), we developed a mixture model to investigate the compositions of fecal microbiomes.  
 * May, 2023. Check our new [paper](https://www.sciencedirect.com/science/article/abs/pii/S1872497323000583) about the use of microbial fingerprint in crime scenes! 
 * Feb, 2023. Our paper, [Generalized matrix decomposition regression: estimation and inference for two-way structured data](https://arxiv.org/abs/2104.08408), has been accepted by the Annals of Applied Statistics.
