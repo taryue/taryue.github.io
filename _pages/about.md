@@ -20,6 +20,7 @@ I also collaborate closely with [Dr. Tim Randolph's lab](https://research.fhcrc.
 
 # Recent News
 
+* Aug, 2024. Our [highcor](https://academic.oup.com/biostatistics/advance-article-abstract/doi/10.1093/biostatistics/kxae027/7725024?utm_source=advanceaccess&utm_campaign=biostatistics&utm_medium=email) paper is online! 
 * July, 2024. We have a new paper accepted by Biostatistics! This is joint work with Ph.D. student Haoran Shi. Check out this [preprint](https://arxiv.org/pdf/2407.07809) and our R package [highcor](https://github.com/taryue/highcor). 
 * Feb, 2024. We have proposed an integrative framework to elucidate microbiome-metabolome-disease pathways. Check out our [preprint](https://arxiv.org/abs/2402.08222).
 * Jan, 2024. We have developed smoothing spline methods to model the temporal dynamics of single-cell RNA-seq data. Check out our [preprint](https://arxiv.org/pdf/2401.15309.pdf). 
