@@ -20,22 +20,21 @@ I also collaborate closely with [Dr. Tim Randolph's lab](https://research.fhcrc.
 
 # Recent News
 
+* Nov, 2024. We have a new paper accepted by Bioinformatics! This is joint work with Ph.D. student Ruoqian Liu and Prof. Dan Cheng from ASU. [Micro-DeMix](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btae667/7905136?searchresult=1) is the first method to investigate the spatial compositions of fecal microbiomes.
 * Aug, 2024. Our [highcor](https://academic.oup.com/biostatistics/advance-article-abstract/doi/10.1093/biostatistics/kxae027/7725024?utm_source=advanceaccess&utm_campaign=biostatistics&utm_medium=email) paper is online! 
 * July, 2024. We have a new paper accepted by Biostatistics! This is joint work with Ph.D. student Haoran Shi. Check out this [preprint](https://arxiv.org/pdf/2407.07809) and our R package [highcor](https://github.com/taryue/highcor). 
 * Feb, 2024. We have proposed an integrative framework to elucidate microbiome-metabolome-disease pathways. Check out our [preprint](https://arxiv.org/abs/2402.08222).
 * Jan, 2024. We have developed smoothing spline methods to model the temporal dynamics of single-cell RNA-seq data. Check out our [preprint](https://arxiv.org/pdf/2401.15309.pdf). 
-* Dec, 2023. Fecal specimens are frequently used as proxies for gut microbiota, which is heterogeneous along the gastrointestinal (GI) tract. In our new [preprint](https://www.biorxiv.org/content/10.1101/2023.12.12.571369v1), we developed a mixture model to investigate the compositions of fecal microbiomes.  
+
 
 
 
 
 
 # Talks
-* July, 2023. I gave a talk on microbiome-metabolome interaction at ICSA, Chengdu, 2023.
-* Jun, 2023. I gave a talk on microbiome-metabolome interaction at WNAR, Anchorage, 2023.
-* Jun, 2023. I gave a talk on microbiome-metabolome interaction at ICSA, Ann Arbor, 2023.
-* Apr, 2023. I will give a talk on microbiome-metabolome interaction at the Department of Mathematics and Statistics, Texas Tech University.
-* Mar, 2023. I will give a talk on microbiome-metabolome interaction at the Department of Statistics, University of Kentucky.
+* June, 2024. I gave a talk on pathway similarities at ICSA, Wuhan, 2024.
+* June, 2024. I gave a talk on pathway similarities at WNAR, Fort Collins, 2024.
+
 
 
 
