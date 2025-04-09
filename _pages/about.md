@@ -20,7 +20,7 @@ I also collaborate closely with [Dr. Tim Randolph's lab](https://research.fhcrc.
 
 # Recent News
 
-* Apr, 2025. We propose [microbial correlation] (https://arxiv.org/pdf/2504.05450v1) to study microbial co-metabolism. 
+* Apr, 2025. We propose [microbial correlation](https://arxiv.org/pdf/2504.05450v1) to study microbial co-metabolism. 
 * Jan, 2025. We have a new paper accepted by Statistica Sinica! [RAPLS](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2023-0418_na.pdf) is an extension of partial least squares to generalized functional linear models. 
 * Nov, 2024. We have a new paper accepted by Bioinformatics! This is joint work with Ph.D. student Ruoqian Liu and Prof. Dan Cheng from ASU. [Micro-DeMix](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btae667/7905136?searchresult=1) is the first method to investigate the spatial compositions of fecal microbiomes.
 * Aug, 2024. Our [highcor](https://academic.oup.com/biostatistics/advance-article-abstract/doi/10.1093/biostatistics/kxae027/7725024?utm_source=advanceaccess&utm_campaign=biostatistics&utm_medium=email) paper is online! 
