@@ -21,7 +21,7 @@ I also collaborate closely with [Dr. Tim Randolph's lab](https://research.fhcrc.
 # Recent News
 
 * July, 2025. Our [CoMMiT paper](https://arxiv.org/pdf/2506.24013v1) is online! CoMMiT is a novel within-cohort transfer-learning method designed to minimize negative transfer in microbiome studies. Check it out! 
-* June, 2025. I received an NIH R03 award to study microbiome-metabolome interactions in IBD populations. 
+* June, 2025. I received an [NIH R03 award](https://reporter.nih.gov/search/o3oxvKytF0uutS0MFflE6w/project-details/11121534) to study microbiome-metabolome interactions in IBD populations. 
 * Apr, 2025. We propose [microbial correlation](https://arxiv.org/pdf/2504.05450v1) to study microbial co-metabolism. 
 * Jan, 2025. We have a new paper accepted by Statistica Sinica! [RAPLS](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2023-0418_na.pdf) is an extension of partial least squares to generalized functional linear models. 
 * Nov, 2024. We have a new paper accepted by Bioinformatics! This is joint work with Ph.D. student Ruoqian Liu and Prof. Dan Cheng from ASU. [Micro-DeMix](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btae667/7905136?searchresult=1) is the first method to investigate the spatial compositions of fecal microbiomes.
