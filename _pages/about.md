@@ -20,6 +20,7 @@ I also collaborate closely with [Dr. Tim Randolph's lab](https://research.fhcrc.
 
 # Recent News
 
+* Sep, 2025. I am excited to start working on a [new NIH R35 MIRA grant](https://reporter.nih.gov/search/bDsxBmlkt0ynP2rKSpkWAQ/project-details/11199416) titled **Robust Multivariate Methods for Analyzing Pathway Interactions and Pathway-Phenotype Associations in Bulk and Single-Cell RNA-seq Studies**.
 * Sep, 2025. I just published [a review paper in WIREs Computational Statistics on dimensionality reduction](https://wires.onlinelibrary.wiley.com/doi/epdf/10.1002/wics.70045) for structured biomedical data — check it out!
 * July, 2025. Our [CoMMiT paper](https://arxiv.org/pdf/2506.24013v1) is online! CoMMiT is a novel within-cohort transfer-learning method designed to minimize negative transfer in microbiome studies. Check it out! 
 * June, 2025. I received an [NIH R03 award](https://reporter.nih.gov/search/o3oxvKytF0uutS0MFflE6w/project-details/11121534) to study microbiome-metabolome interactions in IBD populations. 
