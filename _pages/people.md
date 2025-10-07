@@ -9,6 +9,7 @@ author_profile: true
 
 * Yanyan Xu (2025-): Ph.D. student in Biostatistics, CU Anschutz
 * Jinal Shah (2025-): Ph.D. student in Biostatistics, CU Anschutz
+* Yunjing Hong (2025-): Ph.D. student in Biostatistics, CU Anschutz
 * Yi Shen (2025-): Visiting student from Renmin University of China
 
 
