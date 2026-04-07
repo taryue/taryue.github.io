@@ -20,6 +20,7 @@ I also collaborate closely with [Dr. Tim Randolph's lab](https://research.fhcrc.
 
 # Recent News
 
+* Apr, 2026. I am honored to join the University of Colorado Cancer Center as a Full Member. 
 * Nov, 2025. I start to serve as a Guest Editor for PLOS Computational Biology. 
 * Sep, 2025. I am excited to start working on a [new NIH R35 MIRA grant](https://reporter.nih.gov/search/bDsxBmlkt0ynP2rKSpkWAQ/project-details/11199416) titled **Robust Multivariate Methods for Analyzing Pathway Interactions and Pathway-Phenotype Associations in Bulk and Single-Cell RNA-seq Studies**.
 * Sep, 2025. I just published [a review paper in WIREs Computational Statistics on dimensionality reduction](https://wires.onlinelibrary.wiley.com/doi/epdf/10.1002/wics.70045) for structured biomedical data — check it out!
