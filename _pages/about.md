@@ -20,7 +20,7 @@ I also collaborate closely with [Dr. Tim Randolph's lab](https://research.fhcrc.
 
 # Recent News
 
-* July, 2026. We have a new paper published in Statistics in Medcine on [Distance regression for longitudinal and cross-over microbiome data](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.70654). 
+* July, 2026. We have a new paper published in Statistics in Medicine on [Distance regression for longitudinal and cross-over microbiome data](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.70654). 
 * May, 2026. We have a new preprint on [robust DAG estimation through model averaging](https://arxiv.org/abs/2605.18633). 
 * May, 2026. I will join Biometrics as an Associate Editor in July, 2026. 
 * Apr, 2026. I am honored to join the University of Colorado Cancer Center as a Full Member. 
