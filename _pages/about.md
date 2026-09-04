@@ -20,6 +20,7 @@ I also collaborate closely with [Dr. Tim Randolph's lab](https://research.fhcrc.
 
 # Recent News
 
+* Sep, 2026. [Bernardo Flores (Ph.D. in Statistics, UT Austin)](https://bernardofl.github.io/) is joining our lab as a postdoctoral fellow! Welcome to the team, Bernardo!
 * July, 2026. We developed a robust compositional-aware method for microbiome correlation estimation. [Check it out](https://www.frontiersin.org/journals/cellular-and-infection-microbiology/articles/10.3389/fcimb.2026.1828471/abstract)! 
 * July, 2026. We have a new paper published in Statistics in Medicine on [Distance regression for longitudinal and cross-over microbiome data](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.70654). 
 * May, 2026. We have a new preprint on [robust DAG estimation through model averaging](https://arxiv.org/abs/2605.18633). 
