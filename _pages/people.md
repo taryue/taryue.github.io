@@ -5,6 +5,10 @@ title: "People"
 author_profile: true
 ---
 
+# Current Postdocs
+
+* [Bernardo Flores](https://bernardofl.github.io/): joint with Debashis Ghosh
+
 # Current Students/RA
 
 * Yanyan Xu (2025-): Ph.D. student in Biostatistics, CU Anschutz
