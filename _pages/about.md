@@ -20,6 +20,7 @@ I also collaborate closely with [Dr. Tim Randolph's lab](https://research.fhcrc.
 
 # Recent News
 
+* Nov, 2026. Our [MMDP](https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btag787/8956100) is published in Bioinformatics. MMDP is a statistical method for constructing microbiome-metabolome-disease pathways by integrating complementary data sets. 
 * Sep, 2026. [Bernardo Flores (Ph.D. in Statistics, UT Austin)](https://bernardofl.github.io/) is joining our lab as a postdoctoral fellow! Welcome to the team, Bernardo!
 * July, 2026. We developed a robust compositional-aware method for microbiome correlation estimation. [Check it out](https://www.frontiersin.org/journals/cellular-and-infection-microbiology/articles/10.3389/fcimb.2026.1828471/abstract)! 
 * July, 2026. We have a new paper published in Statistics in Medicine on [Distance regression for longitudinal and cross-over microbiome data](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.70654). 
