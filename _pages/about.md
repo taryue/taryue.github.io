@@ -20,7 +20,8 @@ I also collaborate closely with [Dr. Tim Randolph's lab](https://research.fhcrc.
 
 # Recent News
 
-* Nov. 2026. Jinal will be presenting our **Spatial-GMD** work, which aims to improve the robustness of spatially variable gene analysis in spatial transcriptomics studies, at the **CU Anschutz Cancer Center Scientific Retreat**!
+* Nov, 2026. We propose RoDPAA for multiview microbiome data integration, which respects the natural geometry of each view, requires few modeling choices, and defines sharing flexibly. Check out the [preprint](https://www.biorxiv.org/content/10.64898/2026.10.29.762935v1.full.pdf). 
+* Nov, 2026. Jinal will be presenting our **Spatial-GMD** work, which aims to improve the robustness of spatially variable gene analysis in spatial transcriptomics studies, at the **CU Anschutz Cancer Center Scientific Retreat**!
 * Nov, 2026. Our [MMDP](https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btag787/8956100) is published in Bioinformatics. MMDP is a statistical method for constructing microbiome-metabolome-disease pathways by integrating complementary data sets. 
 * Sep, 2026. [Bernardo Flores (Ph.D. in Statistics, UT Austin)](https://bernardofl.github.io/) is joining our lab as a postdoctoral fellow! Welcome to the team, Bernardo!
 * July, 2026. We developed a robust compositional-aware method for microbiome correlation estimation. [Check it out](https://www.frontiersin.org/journals/cellular-and-infection-microbiology/articles/10.3389/fcimb.2026.1828471/abstract)! 
